@@ -38,6 +38,6 @@ TypeScript
 Leaflet.js
 Sass
 
-##License
+## License
 
 This project is licensed under the MIT License.
